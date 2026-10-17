@@ -21,3 +21,4 @@ python attendance_test.py
 
 These are simulated tests. They do not connect to a real
 authentication service or attendance database.
+Remote collaboration update: README edited on GitHub.
